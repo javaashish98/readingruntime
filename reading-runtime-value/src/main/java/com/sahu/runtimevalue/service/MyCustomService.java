@@ -8,7 +8,7 @@ public class MyCustomService {
 	
 	
 	public void printProjectName() {
-		String projectName = "ReadingRunTimeValue";
+		String projectName = "Reading RunTime Value";
 		System.out.println("Project Name "+projectName);
 	}
 	
