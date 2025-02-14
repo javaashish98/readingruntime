@@ -1,1 +1,10 @@
 projectName: MyFirstProject
+sillkWasteGst: 0.2
+foodGst: 5
+juteGst: 12
+
+
+gst:
+ food: 10
+ cloth: 12
+ medical: 13
